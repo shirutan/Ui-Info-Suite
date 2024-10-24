@@ -4,19 +4,26 @@
   //GUI - Billboard
   "Billboard": "掲示板",
   "Calendar": "カレンダー",
+  "SlayerGoals": "Monster Eradication Goals",
   //GUI - Seed shop
   "HarvestPrice": "収穫価格",
   //Production
   "Days": "日",
   "Hours": "時間",
   "Minutes": "分",
+  "MachineProcessing": "Processing",
+  "MachineDone": "Done",
   //Harvest
   "DaysToMature": "日で成熟",
   "ReadyToHarvest": "収穫可能！",
   "With": "肥料：",
   "Fertilized": "肥料使用済",
+  "Watered": "湿っている",
+  "NotWatered": "乾いている",
   "DoesNotProduceThisSeason": "今季は生産しない",
   //Tree
+  "Stump": "切株",
+  // This space is required for languages that use a space between words, delete otherwise (e.g. Korean)
   "Tree": "木",
   "stage": "成長段階：",
   "Oak": "オークの",
@@ -30,6 +37,9 @@
   "GreenRainType2": "コケむした",
   "GreenRainType3": "コケむした",
   "Mystic": "神秘の",
+  "VmvBirch": "バーチの",
+  "SVEBirch": "シラカバの",
+  "SVEFir": "モミの",
   //Display icons - General
   "TodaysRecipe": "今日のレシピ： ",
   "TravelingMerchantIsInTown": "行商人が町にいる！",
